@@ -9,7 +9,7 @@ import android.widget.Button;
 import servicetest.zkk.com.myapplication.Logger;
 
 /**
- * Function:<br>
+ * Function:测试一下<br>
  * <p/>
  * date: 2017/3/1.
  *

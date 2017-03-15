@@ -15,6 +15,10 @@ import servicetest.zkk.com.myapplication.R;
  *
  * @author GuJian
  */
+
+/**
+ * 测试一下上传
+ */
 public class EventActivity  extends Activity implements View.OnClickListener{
     private EventButton mEventButton;
     @Override
