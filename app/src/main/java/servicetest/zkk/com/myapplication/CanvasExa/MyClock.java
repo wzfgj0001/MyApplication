@@ -15,7 +15,7 @@ import servicetest.zkk.com.myapplication.Logger;
 import servicetest.zkk.com.myapplication.R;
 
 /**
- * Function:打扫打扫<br>
+ * Function:打扫打扫辅导费<br>
  * <p/>
  * date: 2017/2/21.
  *
