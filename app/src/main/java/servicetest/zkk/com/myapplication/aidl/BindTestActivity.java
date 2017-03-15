@@ -19,7 +19,7 @@ import servicetest.zkk.com.myapplication.Logger;
 import servicetest.zkk.com.myapplication.R;
 
 /**
- * Function:的撒旦撒洒洒洒洒dwdwe大<br>
+ * Function:的撒旦撒洒洒洒打撒大洒dwdwe大<br>
  * <p/>
  * date: 2017/3/3.
  *
