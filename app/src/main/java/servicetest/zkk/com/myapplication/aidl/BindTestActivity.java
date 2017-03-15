@@ -19,7 +19,7 @@ import servicetest.zkk.com.myapplication.Logger;
 import servicetest.zkk.com.myapplication.R;
 
 /**
- * Function:的撒旦撒大<br>
+ * Function:的撒旦撒洒洒洒洒大<br>
  * <p/>
  * date: 2017/3/3.
  *
@@ -29,6 +29,7 @@ public class BindTestActivity extends Activity implements View.OnClickListener{
     private Button bindBtn;
     private Button addBtn;
     private Button getBtn;
+    private Button testBtn;
     private TextView mTextView;
     private BookManager bookManager;
     private static  final  int MESSAGE_ARRVIE =1;
