@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="maintab_titlebar_bg">#aaf8f8f8</color>
+    <color name="gray_line">#dedede</color>
+    <color name="gray">#c0c0c0</color>
+    <color name="blue">#50cde4</color>
+    <color name="red">#f10101</color>
+    <color name="health_archive_bg">#75BAF3</color>
+    <color name="bp_color">#50CDE4</color>
+    <color name="diabetes_color">#6ED3BC</color>
+    <color name="login_background">#E5E5E5</color>
+    <color name="button_color">#50CDE4</color>
+    <color name="edit_text_background">#efefef</color>
+    <color name="activity_background">#efefef</color>
+    <color name="text_color_hint">#c0c0c0</color>
+    <color name="text_color_grey">#CDCCCE</color>
+    <color name="border_color">#DADADA</color>
+    <color name="et_bg_disable">#dcdcdc</color>
+    <color name="text_color_green">#31b989</color>
+    <color name="title_bg_green">#17970a</color>
+    <color name="color_cdcdcf">#CDCDCF</color>
+    <color name="default_text_color">#666666</color>
+</resources>

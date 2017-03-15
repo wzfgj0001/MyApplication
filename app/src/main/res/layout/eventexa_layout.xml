@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<servicetest.zkk.com.myapplication.EventExa.EventGroup xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="@drawable/layer_img_bg"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <include layout="@layout/title_bar_layout"/>
+    <servicetest.zkk.com.myapplication.EventExa.EventButton
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="20dp"
+        android:id="@+id/event_btn"
+        android:text="事件测试"
+        android:gravity="center"
+        android:background="@drawable/button_drawable"
+        ></servicetest.zkk.com.myapplication.EventExa.EventButton>
+
+</servicetest.zkk.com.myapplication.EventExa.EventGroup>

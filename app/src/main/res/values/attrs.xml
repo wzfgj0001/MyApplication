@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="title_bar">
+        <attr name="title_bar_leftText" format="string|reference" />
+        <attr name="title_bar_rightText" format="string|reference" />
+        <attr name="title_bar_titleText" format="string|reference" />
+        <attr name="title_bar_leftDrawable" format="reference" />
+        <attr name="title_bar_titleDrawable" format="reference" />
+        <attr name="title_bar_rightDrawable" format="reference" />
+        <attr name="title_bar_leftAndRightTextSize" format="reference|dimension" />
+        <attr name="title_bar_titleTextSize" format="reference|dimension" />
+        <attr name="title_bar_titleTextColor" format="reference|color" />
+        <attr name="title_bar_leftTextColor" format="reference|color" />
+        <attr name="title_bar_rightTextColor" format="reference|color" />
+        <attr name="title_bar_leftAndRightTextColor" format="reference|color" />
+        <!-- 当既有titleText，又有titleDrawable时，设置该属性 -->
+        <attr name="title_bar_titleDrawablePadding" format="reference|dimension" />
+        <!-- 当既有leftText，又有leftDrawable时，设置该属性 -->
+        <attr name="title_bar_leftDrawablePadding" format="reference|dimension" />
+        <!-- 当既有rightText，又有rightDrawable时，设置该属性 -->
+        <attr name="title_bar_rightDrawablePadding" format="reference|dimension" />
+        <attr name="title_bar_leftAndRightPadding" format="reference|dimension" />
+    </declare-styleable>
+
+</resources>
