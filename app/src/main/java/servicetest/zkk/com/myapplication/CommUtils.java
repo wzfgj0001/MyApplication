@@ -18,6 +18,7 @@ import java.util.List;
  */
 public class CommUtils {
     private  int x;
+    private int y;
     public static int sp2px(float spValue) {
         return (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_SP, spValue, Resources
                 .getSystem().getDisplayMetrics());
